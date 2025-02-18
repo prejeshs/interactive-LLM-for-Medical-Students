@@ -9,8 +9,7 @@ Setup and Installation
 3. Install dependencies using pip install -r requirements.txt.
 
 4. Create a .env file in the project directory and add:
-
-  HUGGINGFACEHUB_API_TOKEN=your_api_key_here
+HUGGINGFACEHUB_API_TOKEN=your_api_key_here
 
 5. Run the application with python app.py.
 
